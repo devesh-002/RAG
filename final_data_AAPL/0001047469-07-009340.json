@@ -1,0 +1,27 @@
+{
+    "Item 1A": {
+        "0": {
+            "tables": {},
+            "text": ">item 1a. risk factors\nitem 1b. unresolved staff comments"
+        }
+    },
+    "Item 6": null,
+    "Item 7": {
+        "0": {
+            "tables": {},
+            "text": ">item 7. management's discussion and analysis of financial condition and results of operations"
+        }
+    },
+    "Item 7A": {
+        "0": {
+            "tables": {},
+            "text": ">item 7a. quantitative and qualitative disclosures about market risk"
+        }
+    },
+    "Item 8": {
+        "0": {
+            "tables": {},
+            "text": ">item 8. financial statements and supplementary data\n\nconsolidated balance sheets (in millions, except share amounts)\n\nconsolidated statements of operations (in millions, except share and per share amounts)\n\nconsolidated statements of shareholders' equity (in millions, except share amounts which are in thousands)\n\nconsolidated statements of cash flows (in millions)\n\nnotes to consolidated financial statements"
+        }
+    }
+}
